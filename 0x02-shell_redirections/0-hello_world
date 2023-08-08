@@ -1,5 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-=======
 echo "Hello, World"
->>>>>>> refs/remotes/origin/main
