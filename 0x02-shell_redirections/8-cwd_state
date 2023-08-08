@@ -1,6 +1,2 @@
 #!/bin/bash
 echo "ls -la" >> ls_cwd_content
-<<<<<<< HEAD
-
-=======
->>>>>>> refs/remotes/origin/main
