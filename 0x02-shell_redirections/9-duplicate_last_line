@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "tail -n 1 iacta" >>0x02-shell_redirections
+
