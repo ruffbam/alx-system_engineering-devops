@@ -1,0 +1,14 @@
+total 48
+drwx------ 2 u0_a462 u0_a462 4096 Aug  8 14:21 .
+drwx------ 6 u0_a462 u0_a462 4096 Aug  7 18:27 ..
+-rwx------ 1 u0_a462 u0_a462   32 Aug  7 20:53 0-hello_world
+-rwx------ 1 u0_a462 u0_a462   28 Aug  7 21:33 1-confused_smiley
+-rwx------ 1 u0_a462 u0_a462   28 Aug  7 22:02 2-hellofile
+-rwx------ 1 u0_a462 u0_a462   39 Aug  7 22:08 3-twofiles
+-rwx------ 1 u0_a462 u0_a462   35 Aug  7 22:24 4-lastlines
+-rwx------ 1 u0_a462 u0_a462   35 Aug  7 22:37 5-firstlines
+-rwx------ 1 u0_a462 u0_a462   40 Aug  8 08:38 6-third_line
+-rwx------ 1 u0_a462 u0_a462   74 Aug  8 14:17 7-file
+-rwx------ 1 u0_a462 u0_a462   35 Aug  8 14:20 8-cwd_state
+-rw------- 1 u0_a462 u0_a462   42 Aug  7 18:34 README.md
+-rw------- 1 u0_a462 u0_a462    0 Aug  8 14:21 ls_cwd_content
