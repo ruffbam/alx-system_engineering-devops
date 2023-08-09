@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello user" >> 0x03-shell_variables_expansions
+echo "hello $USER" >> 0x03-shell_variables_expansions
