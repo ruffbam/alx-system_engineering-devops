@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "hello user" >> 0x03-shell_variables_expansions
